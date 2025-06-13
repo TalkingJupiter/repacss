@@ -1,0 +1,3 @@
+[submodule "user-guide"]
+	path = user-guide
+	url = https://github.com/nsfcac/repacss-user-guide.git
